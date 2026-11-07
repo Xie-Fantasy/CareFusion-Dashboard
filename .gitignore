@@ -1,0 +1,14 @@
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.env
+*.env
+!*.env.example
+info/ezviz-config.json
+yolo-video/rtsp信息.txt
+*.pt
+*.pth
+*.log
